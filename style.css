@@ -562,9 +562,9 @@ nav ul li:first-child a {
 
     .mob-img {
         margin-top: 2rem;
-        width:100%;
-        height: 100px;
-        background-image: url(./images/mob-img.png);
+        width:600px;
+        height: 100vh;
+        background-image: url(./images/mob-foot.png);
         background-repeat: no-repeat;
     }
 }
